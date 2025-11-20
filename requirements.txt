@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+streamlit
+opencv-python
+albumentations
+scikit-learn
+pillow
